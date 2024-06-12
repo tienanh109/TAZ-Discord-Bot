@@ -1,5 +1,5 @@
 <div align="center">
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TAZ Discord Bot&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=gradient"/></center>
+<center><img src="https://raw.githubusercontent.com/tienanh109/TAZ-Discord-Bot/main/api.svg"/></center>
 	<!--h1>TAZ Bot</h1-->
 	<b>An open source bot by tienanh109</b>
 	<br>
