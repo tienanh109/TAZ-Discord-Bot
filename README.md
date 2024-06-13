@@ -24,7 +24,7 @@
 
 
 # Install & Setup
-Lazy to host **quickly**? [**Quick Deploy**](#) is the best!
+Lazy to host **quickly**? [**Quick Deploy**](#quick-deploy) is the best!
 ## Quick Deploy
 ![Run on Repl.it](https://repl.it/badge/github/tienanh109/TAZ-Discord-Bot)
 ## Set up your own hosting
