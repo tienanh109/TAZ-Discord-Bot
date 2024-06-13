@@ -127,8 +127,6 @@ You feel too lazy to **Host Yourself**? No problem, [click here to invite TAZ Bo
 </details>
 
 <details>
-
-<details>
 <summary>💻 Statistics / Information (3): </summary>
 
 - `/serverinfo`: View statistics / information about the server
