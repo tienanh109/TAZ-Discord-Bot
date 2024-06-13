@@ -26,7 +26,7 @@
 # Install & Setup
 Lazy to host **quickly**? Click here!
 ## Quick Deploy
-[![Run on Repl.it](https://repl.it/badge/github/tienanh109/TAZ-Discord-Bot)]
+![Run on Repl.it](https://repl.it/badge/github/tienanh109/TAZ-Discord-Bot)
 ## Set up your own hosting
 ### For Windows
 #### 1. Download Python
