@@ -26,7 +26,7 @@
 # Install & Setup
 Lazy to host **quickly**? Click here!
 ## Quick Deploy
-[![Run on Repl.it](https://repl.it/badge/github/tienanh109/chatbot-gemini-api-with-pycord)]
+[![Run on Repl.it](https://repl.it/badge/github/tienanh109/TAZ-Discord-Bot)]
 ## Set up your own hosting
 ### For Windows
 #### 1. Download Python
@@ -93,7 +93,7 @@ And run
 
 ## Start your bot (Hosting):
 ### 1. Install some necessary things 
-- Download this repo, [click here to download]!
+- Download this repo, [click here to download](https://github.com/tienanh109/TAZ-Discord-Bot/archive/refs/heads/main.zip)!
 - Unzip file
 - Go to your directory
 - Open Terminal, run: `pip install -r requirements.txt` to install some **necessary library** for **Python**
