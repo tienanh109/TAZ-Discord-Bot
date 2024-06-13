@@ -1,5 +1,5 @@
 <div align="center">
-<center><img src="https://raw.githubusercontent.com/tienanh109/TAZ-Discord-Bot/main/api.svg"/></center>
+<center><img src="https://raw.githubusercontent.com/tienanh109/TAZ-Discord-Bot/main/image-banner.svg"/></center>
 	<!--h1>TAZ Bot</h1-->
 	<b>An open source bot by tienanh109</b>
 	<br>
