@@ -135,6 +135,7 @@ You feel too lazy to **Host Yourself**? No problem, [click here to invite TAZ Bo
 
 </details>
 
+<details>
 <summary>✨ Funs (7) :</summary>
 
 - `/say`: Tell the bot to say anything
