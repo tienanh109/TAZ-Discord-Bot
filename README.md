@@ -21,33 +21,7 @@ Code by tienanh109 and some other souces
 
 **Prefix**: !
 
-NOTES: [Go to source code](https://github.com/tienanh109/TAZ-Discord-Bot/tree/master)
-
-# Credits:
-## How to Contribution?
-1. Fork this GitHub repository
-2. Make changes
-3. Create a pull request
-
-## Reporting Bugs and Making Suggestions
-1. Create an issue on this Github Repo
-2. Contact me on Discord (Username: @tienanh109)
-3. [Join my discord server for support](https://tienanh109.github.io/dc)
-
-## Contributors:
-### Code writer:
-- **tienanh109** (Main Developer): Write main code for TAZ Bot
-- **[TAZ910 Dev Community](https://tienanh109.github.io/dc)** Members (Tester): Be a tester for TAZ Bot
-- **jennycute3744** (Hosting Services): The person responsible for operating TAZ Bot's hosting service
-
-### Other sources:
-- **Python** - The main coding language of TAZ Bot
-- **Pycord** - Main python library used to make bots
-- **Pycord Docs** - Research source for source code
-- **Pycord Repo** - Understand how Pycord works with examples
-- **Github Users** - Provide source code with examples
-
-**And u <3 Thanks for reading this repo ^-^**
+[It's over? Not yet! Click here for full view and source code!](https://github.com/tienanh109/TAZ-Discord-Bot/tree/master)
 
 
 This is my passionate open source project. If you refer to it, please credit me. Thanks 💖
