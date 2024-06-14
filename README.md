@@ -1,7 +1,8 @@
 <div align="center">
 <center><img src="https://raw.githubusercontent.com/tienanh109/TAZ-Discord-Bot/main/image-banner.svg"/></center>
 	<!--h1>TAZ Bot</h1-->
-	<b>An open source bot by tienanh109</b>
+	<p>NOTES: [Go to the source code here!](https://github.com/tienanh109/TAZ-Discord-Bot/tree/master)</p>
+	<b>An open source bot by tienanh109!</b>
 	<br>
 	
 <img alt="Discord" src="https://img.shields.io/discord/1205813697361215568?label=Discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white">
