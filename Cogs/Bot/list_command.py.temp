@@ -1,0 +1,19 @@
+import discord
+from discord.ext import commands
+
+class ListCmdCog(commands.Cog):
+    def __init__(self, bot):
+        self.bot = bot
+
+    @commands.slash_command(description="Hiển thị tất cả các Slash Command có sẵn")
+    async def list_commands(self, ctx):
+        slash_commands = await ctx.guild.fetch_commands()  # Fetch all slash commands in the guild
+        command_list = "\n".join([f"/{cmd.name} - {cmd.description}" for cmd in slash_commands])
+        
+        if len(command_list) > 2000:
+            await ctx.respond("Danh sách quá dài để hiển thị.")
+        else:
+            await ctx.respond(f"List:\n{command_list}")
+
+def setup(bot):
+    bot.add_cog(ListCmdCog(bot))
