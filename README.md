@@ -174,7 +174,7 @@ You feel too lazy to **Host Yourself**? No problem, [click here to invite TAZ Bo
 - **[TAZ910 Dev Community](https://tienanh109.github.io/dc)** Members (Tester): Be a tester for TAZ Bot
 - **jennycute3744** (Hosting Services): The person responsible for operating TAZ Bot's hosting service
 
-### Other souces:
+### Other sources:
 - **Python** - The main coding language of TAZ Bot
 - **Pycord** - Main python library used to make bots
 - **Pycord Docs** - Research source for source code
