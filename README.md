@@ -1,7 +1,6 @@
 <div align="center">
 <center><img src="https://raw.githubusercontent.com/tienanh109/TAZ-Discord-Bot/main/image-banner.svg"/></center>
-	<!--h1>TAZ Bot</h1-->
-	<p>NOTES: [Go to the source code here!](https://github.com/tienanh109/TAZ-Discord-Bot/tree/master)</p>
+[Go to the source code here!](https://github.com/tienanh109/TAZ-Discord-Bot/tree/master)
 	<b>An open source bot by tienanh109!</b>
 	<br>
 	
