@@ -1,0 +1,10 @@
+py-cord
+requests
+wikipedia
+google
+aiohttp
+asyncio
+psutil
+pytz
+aiohttp
+python-dotenv
