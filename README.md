@@ -20,7 +20,8 @@ TAZ Bot is a simple bot with simple yet interesting features.
 Includes features for moderators and games
 Code by tienanh109 and some other souces
 
-**Vote**: https://top.gg/bot/926795496469704765
+[**Vote for TAZ Bot**](https://top.gg/bot/926795496469704765)
+
 **Prefix**: !
 
 
