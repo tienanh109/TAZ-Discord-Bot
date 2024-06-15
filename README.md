@@ -94,7 +94,7 @@ And run
 
 ## Start your bot (Hosting):
 ### 1. Install some necessary things 
-- Download this repo, [click here to download](https://github.com/tienanh109/TAZ-Discord-Bot/archive/refs/heads/master.zip)!
+- Download this repo, [click here to download](https://github.com/tienanh109/TAZ-Discord-Bot/archive/refs/heads/main.zip)!
 - Unzip file
 - Go to your directory
 - Open Terminal, run: `pip install -r requirements.txt` to install some **necessary library** for **Python**
