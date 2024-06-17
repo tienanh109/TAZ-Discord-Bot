@@ -230,7 +230,7 @@ This is my passionate open source project. If you refer to it, please credit me.
 
 
 
-[version-shield]: https://img.shields.io/badge/version-1.1.0_beta-purple?style=for-the-badge
+[version-shield]: https://img.shields.io/badge/version-1.2.1_beta-purple?style=for-the-badge
 [version-url]: https://github.com/tienanh109/TAZ-Discord-Bot
 [contributors-shield]: https://img.shields.io/github/contributors/tienanh109/TAZ-Discord-Bot.svg?style=for-the-badge&color=blue
 [contributors-url]: https://github.com/tienanh109/TAZ-Discord-Bot/graphs/contributors
