@@ -22,7 +22,7 @@ Code by tienanh109 and some other souces
 
 [**Vote for TAZ Bot**](https://top.gg/bot/926795496469704765)
 
-**Prefix**: ! (Most are app slash commands)
+**Prefix**: !
 
 
 # Install & Setup
@@ -161,6 +161,7 @@ You feel too lazy to **Host Yourself**? No problem, [click here to invite TAZ Bo
 
 - `/say`: Tell the bot to say anything
 - `/calculate`: A Calculator on a bot (+;-;*;/)
+- `/google`: Create quick google search links!
 - `/ai-prompt`: Generate content from prompt!!!!
 - `/tic`: Play tic tac toe game with friends on your server!
 - `/guess`: Guess numbers from 1 to 10
