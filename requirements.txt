@@ -8,4 +8,3 @@ psutil
 pytz
 aiohttp
 python-dotenv
-requests lxml
