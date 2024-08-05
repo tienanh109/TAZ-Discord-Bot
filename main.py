@@ -18,13 +18,13 @@ PREFIX = os.getenv('DISCORD_PREFIX')
 BOT_NAME = os.getenv('BOT_NAME')
 
 
-os.system("clear")
+os.system("cls" if os.name == "nt" else "clear")
 print(f"{BOT_NAME} is preparing to run...\n")
 
 intents = discord.Intents.default()
 
 
-# Sử dụng commands.Bot để hỗ trợ tiền tố
+# Initializing the bot variable with prefix and intents
 bot = commands.Bot(command_prefix=PREFIX, intents=intents)
 
 for folder in os.listdir('Cogs'):
@@ -42,7 +42,7 @@ for folder in os.listdir('Cogs'):
 async def on_ready():
     print(f"\n\n")
     print(f"{BOT_NAME} IS RUNNING NOW!")
-    print(f"Info:\nName: {BOT_NAME}\nStatus: {STATUS}\nPrefix: {PREFIX}\n\n\nError Log will show below!!")
+    print(f"Info:\nName: {BOT_NAME}\nStatus: {STATUS}\nPrefix: {PREFIX}\n\n({bot.id})\nError Log will show below!!")
     guild_count = len(bot.guilds)
     await bot.change_presence(activity=discord.Game(name=f"{STATUS}"))
         
