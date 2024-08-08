@@ -12,7 +12,7 @@ class DeveloperPingCog(commands.Cog):
         try:
             start_time = time.monotonic()
             async with aiohttp.ClientSession() as session:
-                async with session.get(f'http://{website}') as response:
+                async with session.get(f'{website}' if website.startswith("http") else f'https://{website}') as response:
                     latency_ms = (time.monotonic() - start_time) * 1000
                     await ctx.respond(f'Ping to {website} successful. Latency: {latency_ms:.2f} ms')
         except aiohttp.ClientConnectorError:

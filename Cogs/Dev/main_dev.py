@@ -1,6 +1,6 @@
 print("Loading maindev... (get_ip, check_port, check_status_code)")
 import socket
-import time
+import aiohttp
 from discord.ext import commands
 
 class DeveloperCog(commands.Cog):

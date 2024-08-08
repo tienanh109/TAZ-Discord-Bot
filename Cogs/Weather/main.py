@@ -13,8 +13,8 @@ API_KEY = os.getenv("API_WEATHER_KEY")
 class Weather(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
-     
-     
+
+
     @commands.slash_command(name='weather', description='Get weather information for a city.')
     async def weather_info(self, ctx, *, city_name):
         await ctx.defer()

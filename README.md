@@ -30,7 +30,8 @@ Lazy to host **quickly**? [**Quick Deploy**](#quick-deploy) is the best!
 ## Quick Deploy
 [![Run on Repl.it](https://repl.it/badge/github/tienanh109/TAZ-Discord-Bot)](https://replit.com/@tienanh109/TAZ-Discord-Bot?v=1#README.md)
 ## Set up your own hosting
-> NOTES: Ram is 100MB which is the minimum for TAZ Bot! Anything less will cause the bot to crash or run slowly!
+> [!IMPORTANT]
+> You need at least 100MB RAM to run this bot!
 ### For Windows
 #### 1. Download Python
 - Go to the official Python website: [python.org](https://www.python.org)

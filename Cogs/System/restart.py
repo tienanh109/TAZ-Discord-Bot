@@ -7,12 +7,12 @@ from dotenv import load_dotenv
 from discord.ext import commands
 
 load_dotenv()
-OWNER = os.getenv("OWNER_USERNAME")
+OWNER = int(os.getenv("OWNER_USERNAME"))
 
 def setup(bot):
     @bot.command()
     async def restart(ctx):
-      if ctx.author.name == OWNER:
+      if ctx.author.id == OWNER:
           await ctx.reply("Will do it as soon as possible!")
           await asyncio.sleep(1)
           python = sys.executable

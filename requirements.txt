@@ -8,3 +8,4 @@ psutil
 pytz
 aiohttp
 python-dotenv
+psutil
