@@ -28,8 +28,9 @@ Code by tienanh109 and some other souces
 # Install & Setup
 Lazy to host **quickly**? [**Quick Deploy**](#quick-deploy) is the best!
 ## Quick Deploy
-[![Run on Repl.it](https://repl.it/badge/github/tienanh109/TAZ-Discord-Bot)](https://replit.com/@tienanh109/TAZ-Discord-Bot?v=1#README.md) 
-(Outdated)
+[![Run on Repl.it](https://repl.it/badge/github/tienanh109/TAZ-Discord-Bot)](https://replit.com/@tienanh109/TAZ-Discord-Bot?v=1#README.md)
+
+(Outdated): You can create your own repl or continue using the outdated version
 ## Set up your own hosting
 > [!IMPORTANT]
 > You need at least 100MB RAM to run this bot!
