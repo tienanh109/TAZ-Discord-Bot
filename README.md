@@ -33,7 +33,11 @@ Lazy to host **quickly**? [**Quick Deploy**](#quick-deploy) is the best!
 (Outdated): You can create your own repl or continue using the outdated version
 ## Set up your own hosting
 > [!IMPORTANT]
-> You need at least 100MB RAM to run this bot!
+> • This bot is too outdated
+> 
+> • You need at least 100MB RAM to run this bot!
+>
+> • This bot is in development, has bugs and some security issues that have not been implemented yet. 
 ### For Windows
 #### 1. Download Python
 - Go to the official Python website: [python.org](https://www.python.org)
